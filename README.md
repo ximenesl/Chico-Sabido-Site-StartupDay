@@ -18,7 +18,7 @@ Vercel/Netlify (Hospedagem)
 
 <h3>Como Acessar</h3>
 
-[Link 1](https://chico-sabido-site.vercel.app/)
+[Link 1](https://chico-sabido-site-startup-day.vercel.app/)
 [Link 2](https://chico-site.vercel.app/)
 [Link 3](https://chico-site.netlify.app/)
 
