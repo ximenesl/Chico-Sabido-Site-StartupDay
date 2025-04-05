@@ -918,3 +918,7 @@ footer {
 .link-button:hover {
     background-color: #3620DE;
 }
+
+.saiba-mais {
+    font-size: 40px;
+}
